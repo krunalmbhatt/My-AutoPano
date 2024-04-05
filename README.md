@@ -15,11 +15,11 @@ For Phase 2, we implemented two neural networks. One was supervised learning net
 
 Supervise learning approach:
 
-![image-20240405025617324](/run/user/1000/doc/18447334/phsae2.png)
+![image-20240405025617324](/img_for_readme/phsae2.png)
 
 Unsupervised learning approach: 
 
-![image-20240405025902494](/run/user/1000/doc/43874a6c/phase_2_2.png)
+![image-20240405025902494](/img_for_readme/phase_2_2.png)
 
 
 
