@@ -7,7 +7,7 @@
 
 The purpose of this project is to stitch two or more images in order to  create one seamless panorama image. Each image has few repeated  local features (∼ 30-50% or more, emperically chosen). 
 
-![image-20240405025258565](/run/user/1000/doc/52e60dee/phase1.png)
+![image-20240405025258565](/img_for_readme/phase1.png)
 
 #### Phase 2: Deep Learning Approach
 
